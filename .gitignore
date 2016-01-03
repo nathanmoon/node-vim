@@ -1,3 +1,6 @@
+# vim cruft
+*.un~
+
 # Logs
 logs
 *.log
